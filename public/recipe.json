@@ -1,0 +1,108 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Alfredo",
+        "short_description": "Creamy pasta with tender chicken, a classic comfort food.",
+        "ingredients": [
+            "300g fettuccine pasta",
+            "2 boneless, skinless chicken breasts",
+            "2 cups heavy cream",
+            "1 cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "2 tablespoons butter",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 35,
+        "calories": 550,
+        "recipe_image": "https://i.ibb.co/BGdRySN/image.png"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Soup",
+        "short_description": "A hearty soup loaded with fresh vegetables, perfect for a chilly day.",
+        "ingredients": [
+            "4 carrots, chopped",
+            "2 celery stalks, chopped",
+            "1 onion, diced",
+            "3 cloves garlic, minced",
+            "6 cups vegetable broth",
+            "2 cups diced tomatoes",
+            "1 cup green beans, chopped",
+            "1 cup corn kernels",
+            "1 teaspoon dried thyme",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 40,
+        "calories": 180,
+        "recipe_image": "https://i.ibb.co/BZ5hKLB/image.png"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic cookies filled with gooey chocolate chips, perfect for dessert.",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "2 cups semisweet chocolate chips"
+        ],
+        "preparing_time": 25,
+        "calories": 150,
+        "recipe_image": "https://i.ibb.co/tLmJjGC/image.png"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Grilled Salmon",
+        "short_description": "Healthy and flavorful grilled salmon, perfect for a light dinner.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 tablespoons olive oil",
+            "2 tablespoons lemon juice",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried thyme",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 20,
+        "calories": 280,
+        "recipe_image": "https://i.ibb.co/Nr5Dh0F/image.png"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Caprese Salad",
+        "short_description": "A simple and refreshing salad featuring tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "4 ripe tomatoes, sliced",
+            "1 pound fresh mozzarella cheese, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 tablespoons balsamic glaze",
+            "2 tablespoons extra virgin olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 15,
+        "calories": 220,
+        "recipe_image": "https://i.ibb.co/8rVzJLk/image.png"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Beef Stir-Fry",
+        "short_description": "A savory and satisfying beef stir-fry with a variety of vegetables.",
+        "ingredients": [
+            "500g beef sirloin, thinly sliced",
+            "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+            "3 cloves garlic, minced",
+            "1/4 cup soy sauce",
+            "2 tablespoons hoisin sauce",
+            "1 tablespoon sesame oil",
+            "2 teaspoons cornstarch",
+            "1 teaspoon grated ginger",
+            "2 tablespoons vegetable oil"
+        ],
+        "preparing_time": 30,
+        "calories": 350,
+        "recipe_image": "https://i.ibb.co/JcvgRWf/image.png"
+    }
+]
