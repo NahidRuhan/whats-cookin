@@ -6,7 +6,7 @@ const Menu = ({menu,handleCook}) => {
     const {recipe_id,recipe_name,short_description,ingredients,preparing_time,calories,recipe_image} = menu;
     return (
         <div>
-            <div className="card w-80 lg:w-96 bg-base-100 shadow-xl">
+            <div className="card w-80 lg:w-96 bg-base-100 shadow-xl h-full">
   <figure className="px-10 pt-10">
     <img src={recipe_image} alt={recipe_name} className="rounded-xl" />
   </figure>
@@ -14,7 +14,7 @@ const Menu = ({menu,handleCook}) => {
     <h2 className="card-title">{recipe_name}</h2>
     <p className="pb-5 border-b-2">{short_description}</p>
     <p className="text-justify">Ingredients: {ingredients.length}</p>
-    <ul className="list-disc pb-5 border-b-2 text-sm">
+    <ul className="list-disc pb-5 border-b-2 text-sm flex-grow">
         {
             ingredients.map((ing,ind)=><li className="ml-7 text-slate-500" key={ind}>{ing}</li>)
         }
