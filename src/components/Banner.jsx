@@ -1,7 +1,7 @@
 
 const Banner = () => {
     return (
-            <div className="banner flex flex-col gap-5 justify-center items-center">
+            <div className="banner flex flex-col gap-5 justify-center items-center rounded-3xl">
                 <h1 className="text-5xl w-[800px] text-center">Discover an exceptional cooking class tailored for you!</h1>
                 <p className="w-[850px] text-center">Embark on a culinary journey like no other with our personalized cooking class! Whether you&apos;re a beginner or seasoned chef, explore the art of gastronomy tailored to your tastes and skill level.</p>
                 <div className='flex gap-4 justify-center'>
